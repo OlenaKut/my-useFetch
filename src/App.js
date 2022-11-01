@@ -40,7 +40,7 @@ export default function App() {
   }
   return (
     <>
-      <h1>No DATA</h1>
+      <h1>Not founded</h1>
     </>
   );
 }
